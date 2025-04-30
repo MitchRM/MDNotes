@@ -11,58 +11,36 @@ Thoughts on the team’s issues list based on what I’ve been seeing:
     - What makes it fun
     - Recent status update
 - We want the list to be something a student would feel free to modify. Maybe a way for them to propose additions or changes. So maybe could have official list in github (or somewhere) and then use Slack as a place to collect information to be entered by mentor or student leader. (The latest official version could be posted on slack before or after each meeting?)
-
+## THE LIST:
 ### Climber
-
 -   Lower hook and bumper rotation
-    
     - Project status - AJ?
     - Design concept - AJ
     - Cad - Joe?
     - Rotated bumper installation - AJ
     - Part fabrication - AJ
 -   Arm
-    
-    - Cad for geometry
-        
+    - Cad for geometry 
         - pivot location
         - Bar location
     - Arm & bar design
-        
     - Determine motor and gear requirements
-        
     - Determine software requirements
-        
         - Arm subsystem - motor control
-            
         - Driver interface
-            
-        - Semi auto commands?
-            
+        - Semi auto commands?     
 ### Shooter
-            
 -   Color sensor
-    
     - Mounting
     - Read time - Leo
 -   Coral auto load stop feature - Leo
-    
 ### Elevator
-    
 - Mechanism improvements
-    
 - Control improvements
-    
     - Full range on absolute encoder - Matt or Tommy?
-        
     - Determine cause of hunting at hold points - Matt or Tommy?
-        
 ### Simulation capability
-        
 - Study / try Rev Kit Bot simulation - Matt
-    
 - A look at simulation with Reefscape code - Matt
-    
 ### Drivers Station
-    
 - Need 2 radio set up for future pep rallies and demos
