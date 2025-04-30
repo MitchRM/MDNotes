@@ -1,4 +1,5 @@
-# My GRC Issues List
+# My GRC Issues List 
+30Apr25
 
 Thoughts on the team’s issues list based on what I’ve been seeing:
 -   It isn’t helpful to put a students name on an issue - they ignore it, do not take responsibility, and it makes it an assignment that they don’t want to do. Remember this isn’t a paying job.
