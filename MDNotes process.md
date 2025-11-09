@@ -5,4 +5,4 @@
 4. Working on MacBook logged out of Github. I added this line and commited with Github Desktop 
 5. Now I'm adding more and I'm going to commit in VS Code with git enabled.
 6. This change is being made on Driver Station while not logged into Github. I was able to pull down the latest main, then I created test2 and worked on it - adding this note and commiting
-
+7. This change is being made on MacBook after setting up new git folders and cloning to Git-Sr-home. All while logged in to Github, and after checking git username and email.
