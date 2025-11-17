@@ -6,3 +6,4 @@
 5. Now I'm adding more and I'm going to commit in VS Code with git enabled.
 6. This change is being made on Driver Station while not logged into Github. I was able to pull down the latest main, then I created test2 and worked on it - adding this note and commiting
 7. So I removed the git remote from this repo on MacBook RobotPrograms/Git-Sr-home. The original repo is still in place on Github. Now can try working with this local repo, making several changes until it's ready to be merged back into the original github repo. I will then learn then how to accomplish that merge and how to select the commits to be merged. 
+8. Merged Mod1 to main, deleted Mod1, created mod2 -- all with git cli in VSCode, with git cheatsheet in hand. Worked very well. Currently the user name is MitchRM with associated email. Next will make changes to mod2 and will make an incorrect change to main.
